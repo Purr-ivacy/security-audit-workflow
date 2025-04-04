@@ -1,0 +1,8 @@
+database:
+  url: postgres://prod-db:5432
+  auth:
+    user: prod_admin
+    password: "s3cur3P@ss!" 
+
+logging:
+  level: debug
